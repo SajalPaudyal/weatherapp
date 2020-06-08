@@ -1,0 +1,71 @@
+body{
+ background-image: url(back.jpg);
+  color: black;
+  text-align: center;
+ background-size:auto;
+ background-repeat: no-repeat;
+ text-align: center;
+  
+
+}
+
+.degree-section{
+  color: black;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  display: flex;
+  text-shadow: 3px 3px whitesmoke;
+  justify-content: center;
+  
+
+}
+
+.degree-section span{
+  font-size: 10px;
+  
+}
+
+.search-txt{
+  height: 50px;
+  width: 400px;
+  font-size: 25px;
+  margin-top: 0%;
+  color: white;
+  text-transform: uppercase;
+  border-radius: 10px 0px 10px 0px;
+  background: none;
+  margin: none;
+  border: none;
+  border-bottom: 3px solid purple;
+  border-left: 3px solid purple ;
+  align-items: center;
+  align-content: center;
+  font-family: 'Philosopher', sans-serif;
+}
+.location-timezone{
+  font-size: 55px;
+  text-transform: uppercase;
+  font-family: 'piedra';
+  text-shadow: 3px 3px wheat;
+}
+#date{
+  font-size: 25px;
+  font-family: 'Philosopher', sans-serif;
+}
+.temperature-degree{
+  font-size: 80px;
+  font-family: 'Metal Mania', cursive;
+ 
+}
+#degree{
+  font-size: 60px;
+  font-family: 'Metal Mania', cursive;
+  
+}
+
+.temperature-description{
+  font-size: 30px;
+  font-family: 'Philosopher', sans-serif;
+  text-transform: capitalize;
+}
