@@ -4,9 +4,6 @@ body{
   text-align: center;
  background-size:auto;
  background-repeat: no-repeat;
- text-align: center;
-  
-
 }
 
 .degree-section{
@@ -68,4 +65,11 @@ body{
   font-size: 30px;
   font-family: 'Philosopher', sans-serif;
   text-transform: capitalize;
+}
+.footer{
+  text-align: left;
+}
+.real{
+  color: red;
+  
 }
